@@ -151,3 +151,19 @@ footer {
 .network {
   color: rgb(99, 97, 97);
 }
+
+.food-content {
+  display: flex;
+}
+.food-section {
+  margin-top: 100px;
+}
+.food-content img {
+  width: 50%;
+  height: 50%;
+}
+
+.food-content h1 {
+  text-align: center;
+  margin: 10% 20px;
+}
