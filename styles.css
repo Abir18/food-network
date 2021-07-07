@@ -92,9 +92,10 @@ body {
   display: flex;
   margin-top: 3%;
   margin-left: 10%;
+  padding-right: 50px;
 }
 .recipies-img img {
-  width: 70%;
+  width: 100%;
 }
 .recipies-img h1 {
   font-size: 30px;
@@ -102,9 +103,12 @@ body {
 .recipies-img p {
   font-size: 20px;
 }
-.first-img-content {
-  /* border: 10px solid #ddd; */
-  /* box-shadow: 0 0 5px 2px #333; */
+.img-content {
+  box-shadow: 0 0 10px #ddd;
+  border-radius: 20px;
+  margin-right: 80px;
+  padding: 20px;
+  align-items: center;
 }
 
 /* Section Subscriber */
