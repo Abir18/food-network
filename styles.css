@@ -88,3 +88,32 @@ body {
 .recipies-content p {
   font-size: 20px;
 }
+.recipies-img {
+  display: flex;
+  margin-top: 3%;
+  margin-left: 10%;
+}
+.recipies-img img {
+  width: 70%;
+}
+.recipies-img h1 {
+  font-size: 30px;
+}
+.recipies-img p {
+  font-size: 20px;
+}
+.first-img-content {
+  /* border: 10px solid #ddd; */
+  /* box-shadow: 0 0 5px 2px #333; */
+}
+
+.subscriber {
+  margin-top: 10%;
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-evenly;
+  box-shadow: ;
+}
+.subscriber h1 {
+  font-size: 50px;
+}
