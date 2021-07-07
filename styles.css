@@ -26,6 +26,12 @@ body {
 .header-content {
   margin: 300px 150px;
 }
+.header-content p {
+  font-size: 25px;
+}
+#top-banner-btn {
+  margin-top: 50px;
+}
 .header-img {
   margin: 100px 0;
 }
@@ -118,7 +124,7 @@ body {
   justify-content: space-evenly;
   box-shadow: 0 0 10px #ddd;
   border-radius: 20px;
-  margin: 100px 160px;
+  margin: 100px 170px;
   padding: 30px 0;
 }
 .subscriber h1 {
