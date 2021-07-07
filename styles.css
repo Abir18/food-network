@@ -1,0 +1,90 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+/* Section Top Header  */
+.top-header {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 100%;
+}
+.half-width h1 {
+  font-size: 4em;
+  color: #575151;
+  font-weight: 700;
+  margin: 0;
+}
+.top-header .header-content p {
+  margin-bottom: 50px;
+  color: #333;
+}
+.header-content {
+  margin: 300px 150px;
+}
+.header-img {
+  margin: 100px 0;
+}
+.skip {
+  color: rgb(241, 106, 82);
+}
+.linear-gradient-btn {
+  text-decoration: none;
+  background-image: linear-gradient(
+    to right,
+    rgb(247, 179, 54),
+    rgb(238, 72, 43)
+  );
+  color: white;
+  font-size: 20px;
+  padding: 25px 50px;
+  border-radius: 50px;
+}
+
+/* Section About Me  */
+.about-me {
+  display: flex;
+  background-image: url('images/shapes/7.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+.about-me-img img {
+  width: 50%;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.about-me-content {
+  margin: 5%;
+  margin-right: 5%;
+}
+.about-me-content h1 {
+  font-size: 50px;
+  color: rgb(110, 106, 106);
+}
+.about-me-content p {
+  padding-top: 40px;
+  padding-bottom: 80px;
+  font-size: 25px;
+}
+
+/* Section Recipies */
+.recipies {
+  margin-top: 5%;
+}
+.recipies-content {
+  text-align: center;
+}
+.recipies-content h1 {
+  font-size: 50px;
+  color: rgb(110, 106, 106);
+}
+.recipies-content p {
+  font-size: 20px;
+}
